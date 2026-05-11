@@ -1,4 +1,4 @@
-# 
+# Enhance Notion for Windows with Notion for Windows automatic Plugin: database-creation & tags, the #1 plugin. Includes database-creation and tags for a smoother and more
 
 
 
